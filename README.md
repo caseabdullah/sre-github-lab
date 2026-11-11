@@ -33,7 +33,8 @@ The proposed system will help students organize their coursework by allowing the
 ## Assumptions and open questions
 - **Assumption A-01:** It is assumed that each student will manage their own coursework tasks and that every task must have a title.
 - **Question Q-01:** Should students be able to edit or delete tasks after creating them?
-- **Question Q-02:** Which device will be used to test NFR-01?
+- **Question Q-02:** Should students be able to switch account from university to other accounts like personal or any other account?
+- **Question Q-03:** Which device will be used to test NFR-01?
 
 ## Project status and viewing
 This is a documentation-only project. No application has been built.
